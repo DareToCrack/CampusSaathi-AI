@@ -1,0 +1,210 @@
+/* Import premium typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* Global Page Customization */
+html, body, [data-testid="stAppViewContainer"] {
+    background: radial-gradient(circle at 50% 50%, #111827 0%, #0B0F19 100%) !important;
+    font-family: 'Poppins', 'Inter', sans-serif !important;
+    color: #FFFFFF !important;
+}
+
+/* Sidebar Custom Styling */
+[data-testid="stSidebar"] {
+    background-color: #0B0F19 !important;
+    border-right: 1px solid rgba(56, 189, 248, 0.15) !important;
+}
+
+/* Header customization */
+[data-testid="stHeader"] {
+    background-color: rgba(11, 15, 25, 0.8) !important;
+    backdrop-filter: blur(10px) !important;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #0B0F19;
+}
+::-webkit-scrollbar-thumb {
+    background: #38BDF8;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #00D1FF;
+}
+
+/* Glowing Neon Elements */
+.neon-glow {
+    text-shadow: 0 0 10px rgba(0, 209, 255, 0.6), 0 0 20px rgba(56, 189, 248, 0.3);
+}
+
+.neon-border {
+    border: 1px solid rgba(0, 209, 255, 0.3);
+    box-shadow: 0 0 15px rgba(0, 209, 255, 0.1);
+}
+
+/* Premium Glassmorphism Cards */
+.glass-card {
+    background: rgba(255, 255, 255, 0.03) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    border-radius: 16px !important;
+    padding: 24px !important;
+    margin-bottom: 20px !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.glass-card:hover {
+    background: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid rgba(56, 189, 248, 0.3) !important;
+    box-shadow: 0 8px 32px 0 rgba(56, 189, 248, 0.15) !important;
+    transform: translateY(-4px) !important;
+}
+
+/* Dynamic Interactive Buttons */
+div.stButton > button {
+    background: linear-gradient(135deg, #00D1FF 0%, #38BDF8 100%) !important;
+    color: #0B0F19 !important;
+    font-weight: 600 !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 10px 24px !important;
+    transition: all 0.2s ease !important;
+    box-shadow: 0 4px 15px rgba(0, 209, 255, 0.2) !important;
+}
+
+div.stButton > button:hover {
+    transform: scale(1.03) !important;
+    box-shadow: 0 4px 20px rgba(0, 209, 255, 0.4) !important;
+    color: #0B0F19 !important;
+}
+
+div.stButton > button:active {
+    transform: scale(0.98) !important;
+}
+
+/* Chat Bubbles Container */
+.chat-container {
+    max-height: 500px;
+    overflow-y: auto;
+    padding: 15px;
+    border-radius: 12px;
+    background: rgba(17, 24, 39, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.03);
+    margin-bottom: 15px;
+}
+
+/* User Message Bubble */
+.user-bubble {
+    background: linear-gradient(135deg, rgba(56, 189, 248, 0.15) 0%, rgba(0, 209, 255, 0.08) 100%) !important;
+    border: 1px solid rgba(56, 189, 248, 0.2) !important;
+    border-radius: 16px 16px 4px 16px !important;
+    padding: 12px 18px !important;
+    margin: 8px 0 8px auto !important;
+    max-width: 80% !important;
+    color: #FFFFFF !important;
+    text-align: left !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Assistant Message Bubble */
+.assistant-bubble {
+    background: rgba(255, 255, 255, 0.04) !important;
+    border: 1px solid rgba(255, 255, 255, 0.06) !important;
+    border-radius: 16px 16px 16px 4px !important;
+    padding: 14px 20px !important;
+    margin: 8px auto 8px 0 !important;
+    max-width: 85% !important;
+    color: #E2E8F0 !important;
+    text-align: left !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Pulse Animation for Microphones or Status */
+@keyframes pulse {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0, 209, 255, 0.4); }
+    70% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(0, 209, 255, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0, 209, 255, 0); }
+}
+
+.mic-active {
+    animation: pulse 1.5s infinite;
+    background: #EF4444 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #F87171 !important;
+}
+
+/* Custom styled role select cards */
+.role-box {
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 12px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.role-box:hover {
+    border-color: #38BDF8;
+    background: rgba(56, 189, 248, 0.05);
+    box-shadow: 0 0 15px rgba(56, 189, 248, 0.1);
+    transform: translateY(-2px);
+}
+
+.role-icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+/* Language Chips */
+.lang-chip {
+    display: inline-block;
+    padding: 6px 16px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    margin: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.lang-chip:hover, .lang-chip.active {
+    background: rgba(0, 209, 255, 0.1);
+    border-color: #00D1FF;
+    color: #00D1FF;
+}
+
+/* Typing Indicator Animation */
+.typing-dot {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin-right: 3px;
+    background: #9CA3AF;
+    animation: wave 1.3s linear infinite;
+}
+
+.typing-dot:nth-child(2) { animation-delay: -1.1s; }
+.typing-dot:nth-child(3) { animation-delay: -0.9s; }
+
+@keyframes wave {
+    0%, 60%, 100% { transform: translateY(0); }
+    30% { transform: translateY(-4px); }
+}
+
+/* Footer Section */
+.footer-text {
+    font-size: 0.8rem;
+    color: #6B7280;
+    text-align: center;
+    margin-top: 40px;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    padding-top: 20px;
+}

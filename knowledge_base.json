@@ -1,0 +1,362 @@
+{
+  "Student": {
+    "Admission Related": [
+      {
+        "question": "What is the detailed admission procedure for undergraduate courses?",
+        "answer": "To get admission in undergraduate courses, candidates must apply through the central university portal. Cutoff marks are announced in 3-4 successive rounds based on merit. Once selected, applicants must visit the Admission Block for document verification and pay the tuition fees.",
+        "required_documents": ["10th and 12th Marksheets", "Transfer Certificate", "Migration Certificate", "Category/Caste Certificate (if applicable)", "Aadhaar Card", "3 Passport-sized Photos"],
+        "location": "Admission Cell, Ground Floor, Admin Block (Block A)",
+        "timings": "09:30 AM – 04:30 PM (Monday to Friday)",
+        "procedure": "1. Fill out the application form on the university website.\n2. Wait for the cutoff announcement and check selection status.\n3. Report to the Admission Cell Room 101 with all original and copy documents.\n4. Complete physical verification.\n5. Pay the fee via the online portal to secure your seat.",
+        "approval_authority": "Dean of Admissions",
+        "deadlines": "Typically July 31st of each academic year",
+        "processing_time": "1 working day after document submission",
+        "additional_instructions": "Bring at least two sets of self-attested photocopies of all listed documents."
+      },
+      {
+        "question": "What are the eligibility criteria and documents required for PG admissions?",
+        "answer": "Postgraduate admission requires a completed Bachelor's degree in the relevant discipline with a minimum of 55% aggregate marks (50% for reserved categories) and a qualifying score in the University Entrance Exam (CS-PET).",
+        "required_documents": ["Graduation Marksheets (All Semesters)", "Provisional Degree Certificate", "Entrance Exam Scorecard", "Aadhaar Card", "Migration Certificate"],
+        "location": "Postgraduate Admissions Wing, Room 105, Admin Block",
+        "timings": "10:00 AM – 04:00 PM",
+        "procedure": "1. Register and clear the entrance exam.\n2. Register for counselling on the PG portal.\n3. Present degree credentials at PG Wing.\n4. Receive allotment letter and pay fee.",
+        "approval_authority": "Head of Department (Concerned) & PG Admission Board",
+        "deadlines": "August 15th of the academic year",
+        "processing_time": "2 working days",
+        "additional_instructions": "Make sure your degree certificate is issued by a UGC recognized university."
+      }
+    ],
+    "Marks Related": [
+      {
+        "question": "How do I check my semester CGPA and grade cards?",
+        "answer": "Semester grade sheets are published on the Student Portal (LMS) under the 'Academics' tab. You can download unofficial copies instantly or request official transcript prints.",
+        "required_documents": ["Student ID Card", "Portal Credentials"],
+        "location": "Controller of Examinations (CoE) Office, Block B",
+        "timings": "11:00 AM – 03:00 PM",
+        "procedure": "1. Login to the LMS portal.\n2. Click on 'Academics' and select 'Grade Report'.\n3. Click on the respective semester to view CGPA.\n4. For official signed grade sheets, fill the request form at the CoE window.",
+        "approval_authority": "Controller of Examinations",
+        "deadlines": "None (available throughout the year)",
+        "processing_time": "Instant (online), 3 working days (for hardcopy)",
+        "additional_instructions": "Keep your password secure. Do not share portal login credentials."
+      },
+      {
+        "question": "What is the procedure to apply for answer sheet re-evaluation?",
+        "answer": "Students unsatisfied with their grades can apply for re-evaluation or photocopy of the answer script. A non-refundable fee of $20 per subject applies.",
+        "required_documents": ["Re-evaluation Request Form", "Original Grade Card Copy", "Fee Payment Receipt"],
+        "location": "Evaluation Cell Desk 4, Block B",
+        "timings": "10:00 AM – 01:00 PM",
+        "procedure": "1. Download the Re-evaluation form from the student resources page.\n2. Pay the re-evaluation fee online via portal.\n3. Submit the filled form with receipt to the Evaluation Cell.\n4. Wait for the re-evaluated grade to reflect on the portal.",
+        "approval_authority": "Deputy Registrar (Examinations)",
+        "deadlines": "Within 15 days of result declaration",
+        "processing_time": "15 to 20 working days",
+        "additional_instructions": "Note that marks may increase, decrease, or remain unchanged after re-evaluation."
+      }
+    ],
+    "Address Related": [
+      {
+        "question": "How can I change my permanent or communication address in college records?",
+        "answer": "Students can update their address in the college ERP. A change of permanent address requires official residential proof.",
+        "required_documents": ["Address Change Application Form", "Valid Proof (Aadhaar Card, Passport, or Electricity Bill)", "Parents' Consent Letter"],
+        "location": "Student Records Section, Room 102, Admin Block",
+        "timings": "10:00 AM – 04:00 PM",
+        "procedure": "1. Draft a request letter and attach residential proofs.\n2. Submit documents to the Records Desk.\n3. The staff will verify documents and update the database.",
+        "approval_authority": "Administrative Officer",
+        "deadlines": "None",
+        "processing_time": "2 working days",
+        "additional_instructions": "Make sure the name on the address proof matches your admission name exactly."
+      }
+    ],
+    "Library Related": [
+      {
+        "question": "How to get a library membership card and what are the borrowing rules?",
+        "answer": "All enrolled students are eligible for free library membership. Students receive a library barcode on their Student ID card, allowing them to borrow up to 4 books simultaneously.",
+        "required_documents": ["College Admission Receipt", "Student ID Card", "1 Passport-sized Photo"],
+        "location": "Library Circulation Counter, Central Library Block",
+        "timings": "08:00 AM – 08:00 PM (All days)",
+        "procedure": "1. Visit the library membership counter.\n2. Submit the registration form and ID card.\n3. The librarian will activate your barcode and issue the borrower logbook.",
+        "approval_authority": "Chief Librarian",
+        "deadlines": "Within 1 month of joining the college",
+        "processing_time": "15 minutes (Instant activation)",
+        "additional_instructions": "Books can be borrowed for 14 days. A late fee of $0.50 per day applies per book afterwards."
+      }
+    ],
+    "Scholarship Related": [
+      {
+        "question": "How to apply for the Merit-cum-Means College Scholarship?",
+        "answer": "The Merit-cum-Means scholarship provides up to 50% tuition waiver to deserving students with excellent academic records and family income below $8,000 per annum.",
+        "required_documents": ["Income Certificate (issued by competent authority)", "Previous Year Marksheet", "College Fee Receipt", "Bonafide Certificate", "Bank Passbook Copy"],
+        "location": "Scholarship Cell Room 102, Admin Block",
+        "timings": "10:00 AM – 03:00 PM (Monday to Friday)",
+        "procedure": "1. Collect the application form from Room 102 or download it from the college portal.\n2. Get the Bonafide Certificate signed from Academic Cell.\n3. Compile all documents and submit the physical folder at Scholarship Desk.\n4. Verification will be performed, followed by interview rounds.",
+        "approval_authority": "Director, Student Welfare Board",
+        "deadlines": "September 30th of every academic year",
+        "processing_time": "15-20 working days for shortlisting",
+        "additional_instructions": "Ensure your bank account is active and linked with your Aadhaar number."
+      },
+      {
+        "question": "What is the procedure for National Scholarship Portal (NSP) verification?",
+        "answer": "NSP applications must be filled online and then submitted physically to the institute nodal officer for digital verification.",
+        "required_documents": ["NSP Printed Application Form", "All Marksheets", "Fee Receipt", "Bonafide Certificate", "Caste and Income Certificate"],
+        "location": "Academic Desk 2, ground floor, Block A",
+        "timings": "11:00 AM – 04:00 PM",
+        "procedure": "1. Apply online on the NSP portal and choose our institute.\n2. Print the submitted application.\n3. Submit the printout and copies of documents at Desk 2.\n4. Nodal officer will verify your records online.",
+        "approval_authority": "Institute Nodal Officer (Scholarships)",
+        "deadlines": "Subject to central government guidelines (typically October 31st)",
+        "processing_time": "3 working days",
+        "additional_instructions": "Check your application status regularly on the NSP login page."
+      }
+    ],
+    "Abroad Studies": [
+      {
+        "question": "What are the student exchange programs and how to apply?",
+        "answer": "We have partnerships with universities in Europe and the USA for semester-long exchange programs. Students in their 5th or 6th semester are eligible.",
+        "required_documents": ["Statement of Purpose (SoP)", "CGPA Certificate (Min 8.5 CGPA required)", "No Objection Certificate from HoD", "Letter of Recommendation (2)", "Passport Copy"],
+        "location": "International Relations Office (IRO), Room 302, Block C",
+        "timings": "02:00 PM – 05:00 PM",
+        "procedure": "1. Read the list of partner universities on the IRO board.\n2. Submit the interest application along with your SOP and HoD NOC.\n3. Attend the selection panel interview.\n4. If selected, apply directly to the host university under our nomination.",
+        "approval_authority": "Dean, International Relations",
+        "deadlines": "January 15th for Fall Semester, August 15th for Spring Semester",
+        "processing_time": "30 days",
+        "additional_instructions": "Host university tuition fee is waived, but living expenses must be borne by the student unless external funding is secured."
+      }
+    ],
+    "Hostel Related": [
+      {
+        "question": "What is the leave application process for hostellers?",
+        "answer": "Hostel residents must submit a formal leave request before leaving the campus overnight. Outings during weekends require parental notification.",
+        "required_documents": ["Leave Application Form", "Parent's Email/SMS Confirmation", "Outing Pass"],
+        "location": "Chief Warden's Office, Hostel Block C (Ground Floor)",
+        "timings": "06:00 PM – 08:30 PM (Daily)",
+        "procedure": "1. Fill in the leave request details on the Hostel Portal.\n2. Ensure your parents send a confirmation email/message to the warden.\n3. Visit the Warden Office to get the physical Outing Pass signed.\n4. Present the pass at the campus main security gate when leaving.",
+        "approval_authority": "Hostel Warden & Chief Warden",
+        "deadlines": "At least 24 hours prior to departure",
+        "processing_time": "Immediate (once parents' confirmation is verified)",
+        "additional_instructions": "The maximum permissible duration for local leaves is 5 consecutive days. In case of medical emergencies, notify immediately."
+      },
+      {
+        "question": "What are the rules regarding parents staying in the hostel?",
+        "answer": "Parents are not allowed inside the student hostel rooms. However, they can book a room in the university guest house or meet students in the visitor lounge.",
+        "required_documents": ["Student ID Card", "Parent Aadhaar Card"],
+        "location": "Hostel Lounge & Guest House Office",
+        "timings": "Visitor hours: 09:00 AM – 07:00 PM",
+        "procedure": "1. Register parents at the hostel gate security logbook.\n2. Accompany them to the visitor lounge.\n3. For overnight stay, book a guest house room via the estate office in advance.",
+        "approval_authority": "Warden",
+        "deadlines": "Guest house booking: 3 days in advance",
+        "processing_time": "Instant (visitor entry), 1 day (guest house booking)",
+        "additional_instructions": "Male parents are strictly prohibited in the girls' hostels and vice-versa."
+      }
+    ],
+    "Fees Section": [
+      {
+        "question": "How to pay college semester fees and what are the payment modes?",
+        "answer": "Semester fees must be paid online via the student ERP portal. Cash payments are not accepted, but DD (Demand Drafts) are accepted in exceptional cases.",
+        "required_documents": ["Student ID", "Fee Challan / Portal Invoice"],
+        "location": "Accounts Section Counter 2, Admin Block",
+        "timings": "09:30 AM – 02:00 PM",
+        "procedure": "1. Log into the Student portal and click 'Fees'.\n2. View current invoice and select 'Pay Online'.\n3. Choose Netbanking, UPI, or Credit/Debit card.\n4. Download the generated receipt instantly.",
+        "approval_authority": "Finance Officer",
+        "deadlines": "Within 10 days of semester commencement",
+        "processing_time": "Instant (online), 2 working days (for Demand Drafts)",
+        "additional_instructions": "Late fee of $5 per day applies after the deadline. Always save and print the online transaction receipt."
+      }
+    ],
+    "Certificates": [
+      {
+        "question": "What is the process to apply for a Bonafide Certificate?",
+        "answer": "A Bonafide Certificate is issued for academic, visa, or loan purposes, confirming the student's enrollment status.",
+        "required_documents": ["Application Form", "Current Semester Fee Receipt", "Copy of Student ID Card"],
+        "location": "Academic Section Desk 1, Admin Block",
+        "timings": "10:00 AM – 01:00 PM (Monday to Friday)",
+        "procedure": "1. Collect the application form from Desk 1 or download it from portal.\n2. Fill the form, stating the purpose (e.g. passport application, education loan).\n3. Attach fee receipt copy and ID card.\n4. Submit at Desk 1. Collect after registration and signatures.",
+        "approval_authority": "Registrar / Academic Coordinator",
+        "deadlines": "None",
+        "processing_time": "2 working days",
+        "additional_instructions": "If applying for a loan, ensure bank details/requirements are correctly specified on the application form."
+      },
+      {
+        "question": "What is the process to replace a lost College ID Card?",
+        "answer": "Students who lose their ID cards must report it to security, file a diary, pay a reissue fee of $10, and submit a replacement form.",
+        "required_documents": ["Reissue Application Form", "Copy of Police Missing Report", "Fee Receipt of $10", "1 Passport-sized Photo"],
+        "location": "Security and Estates Office, Ground floor, Block A",
+        "timings": "11:00 AM – 03:00 PM",
+        "procedure": "1. Register a lost report at the campus main security desk.\n2. Pay the replacement fee at the accounts window.\n3. Fill in the replacement card form.\n4. Submit everything to the Security Office and collect the new card once printed.",
+        "approval_authority": "Security Officer & Administrative Dean",
+        "deadlines": "Within 7 days of losing the card",
+        "processing_time": "3 working days",
+        "additional_instructions": "Temporary library gates access slip can be obtained from the chief librarian in the interim."
+      }
+    ],
+    "Academic Problems": [
+      {
+        "question": "What is the procedure to apply for a subject change or elective swap?",
+        "answer": "Elective subject swaps are permitted only in the first week of the semester, subject to seat availability.",
+        "required_documents": ["Subject Change Request Form", "Signature of current HoD", "Signature of receiving HoD"],
+        "location": "Academic Office, Block A",
+        "timings": "09:30 AM – 12:30 PM",
+        "procedure": "1. Fill the Course Swap Form.\n2. Take consent/signatures from both course teachers and department heads.\n3. Submit the signed form to the Academic Registrar.\n4. Check your portal database for course update within 2 days.",
+        "approval_authority": "Dean of Academics",
+        "deadlines": "Strictly within 7 calendar days of semester start",
+        "processing_time": "2 working days",
+        "additional_instructions": "Swaps are not permitted for core mandatory subjects."
+      }
+    ]
+  },
+  "Teacher/Staff": {
+    "Staff Office Addresses": [
+      {
+        "question": "Where are the key administrative and academic offices located?",
+        "answer": "Administrative offices (Registrar, Accounts, HR) are in the Admin Block (Block A). Dean and Department Head offices are located on the second floor of their respective academic blocks.",
+        "required_documents": ["None"],
+        "location": "Admin Block (Block A) and Academic Blocks C, D, E",
+        "timings": "09:00 AM – 05:00 PM (Monday to Saturday)",
+        "procedure": "1. Consult the digital campus map at the entrance.\n2. Visit Block A for core administration and finance queries.\n3. Visit Block C for Engineering, Block D for Humanities, and Block E for Sciences.",
+        "approval_authority": "Estate Manager",
+        "deadlines": "None",
+        "processing_time": "Instant (visitor guidance)",
+        "additional_instructions": "Appointments are highly recommended for meeting heads of departments."
+      }
+    ],
+    "Food Court Details": [
+      {
+        "question": "What are the food courts, faculty dining locations, and hours?",
+        "answer": "The university has 3 food courts. A dedicated Faculty and Staff Dining Area is located in the Central Food Court on the second floor.",
+        "required_documents": ["Staff ID Card (for faculty discounts)"],
+        "location": "Central Food Court, Second Floor",
+        "timings": "08:00 AM – 09:30 PM (Daily)",
+        "procedure": "1. Present your faculty card at the cash register to obtain meal coupons.\n2. Access the dedicated faculty lounge area for dining services.",
+        "approval_authority": "Food and Catering Committee",
+        "deadlines": "None",
+        "processing_time": "Instant",
+        "additional_instructions": "Special catering requests for events must be filed 3 days in advance."
+      }
+    ],
+    "Library Timings": [
+      {
+        "question": "What are the faculty library timings and journal access details?",
+        "answer": "Faculty members have 24/7 access to the Digital Library portal and extended borrowing privileges of up to 15 books for 90 days.",
+        "required_documents": ["Staff ID Card", "Digital Library Token"],
+        "location": "Faculty Research Wing, Central Library (Level 3)",
+        "timings": "Physical Wing: 08:00 AM – 10:00 PM, Digital Portal: 24/7",
+        "procedure": "1. Request library registration at checkout counter.\n2. Collect digital credentials for IEEE, Elsevier, and Springer journal access.\n3. Check out books using the dedicated faculty kiosk.",
+        "approval_authority": "Librarian",
+        "deadlines": "None",
+        "processing_time": "Instant",
+        "additional_instructions": "Renewals can be done online through the library catalogue interface."
+      }
+    ],
+    "Academic Section": [
+      {
+        "question": "What is the procedure for updating student marks and attendance on the ERP?",
+        "answer": "Attendance and internal marks must be entered regularly on the ERP portal. Attendance must be locked weekly.",
+        "required_documents": ["Staff ERP Login credentials", "Student Evaluation Sheets"],
+        "location": "ERP Support Center, Room 204, Block A",
+        "timings": "09:00 AM – 05:00 PM",
+        "procedure": "1. Log into ERP with institutional credentials.\n2. Select 'My Classes' and select the course code.\n3. Click 'Attendance' or 'Grade Entry'.\n4. Save, review, and click 'Publish' (Note: published grades cannot be changed without written approval).",
+        "approval_authority": "Controller of Examinations & Head of Department",
+        "deadlines": "Attendance: Every Sunday by 06:00 PM. Exam grades: Within 5 days of exam completion",
+        "processing_time": "Instant (online sync)",
+        "additional_instructions": "Ensure you maintain a physical register of marks and attendance for final audits."
+      }
+    ],
+    "Department Information": [
+      {
+        "question": "How to apply for internal research grants and lab funding?",
+        "answer": "Faculty members are encouraged to apply for the annual University Research Initiative (URI) grants, providing funding up to $25,000.",
+        "required_documents": ["Research Project Proposal", "Budget Breakdown", "Co-Investigator Consent", "Ethical Clearance Form (if applicable)"],
+        "location": "Research & Development Cell, Room 304, Admin Block",
+        "timings": "10:00 AM – 04:00 PM",
+        "procedure": "1. Download the URI Proposal template.\n2. Submit proposal draft to Department Research Committee (DRC) for peer review.\n3. Incorporate feedback and submit final proposal to R&D Cell.\n4. Defend proposal before the expert committee.",
+        "approval_authority": "Dean, Research and Development",
+        "deadlines": "October 15th annually",
+        "processing_time": "45 days for review and funding release",
+        "additional_instructions": "Projects involving external collaborators must attach formal letters of support."
+      }
+    ]
+  },
+  "Parent": {
+    "Guest Room Details": [
+      {
+        "question": "How can parents book guest rooms on campus?",
+        "answer": "The university provides fully furnished guest rooms for parents visiting their children. Booking must be initiated online or via written request.",
+        "required_documents": ["Guest Booking Form", "Aadhaar Card copy of parent", "Student ID copy"],
+        "location": "Estate and Logistics Desk, Block A",
+        "timings": "10:00 AM – 04:00 PM",
+        "procedure": "1. Fill the Guest Room Booking Form on the Parent Portal.\n2. Upload identity documents.\n3. Pay the room charge of $15 per day online.\n4. Check-in at the guest house desk with physical Aadhaar copy.",
+        "approval_authority": "Estate Officer",
+        "deadlines": "Book at least 3 days prior to arrival",
+        "processing_time": "1 working day",
+        "additional_instructions": "Maximum stay duration is 3 consecutive nights. Meals are charged separately at the dining hall."
+      }
+    ],
+    "Admission Office": [
+      {
+        "question": "Where is the parent helpline and admission query desk located?",
+        "answer": "A dedicated Parent Desk is located at the main entry of the Admission Block to resolve queries regarding fees, registrations, and courses.",
+        "required_documents": ["None"],
+        "location": "Desk A-1, Reception Lobby, Admission Block",
+        "timings": "09:00 AM – 05:00 PM (Monday to Saturday)",
+        "procedure": "1. Visit the reception lobby.\n2. State query to the helpline desk agent.\n3. Receive printed procedure slips or meet admission officers.",
+        "approval_authority": "Public Relations Officer",
+        "deadlines": "None",
+        "processing_time": "Instant (walk-in)",
+        "additional_instructions": "Hotline number is +1 (555) 019-9000 (Available 9 AM - 6 PM)."
+      }
+    ],
+    "Food Court": [
+      {
+        "question": "Can parents/visitors dine at campus food courts?",
+        "answer": "Yes, all campus dining areas and food courts are open to parents and visitors. Payments can be made via cash, cards, or digital UPI apps.",
+        "required_documents": ["None"],
+        "location": "All Food Courts (Central, Hostels, and North Block)",
+        "timings": "08:00 AM – 09:30 PM",
+        "procedure": "1. Visit any food court counter.\n2. Place orders directly.\n3. Pay via standard payment modes.",
+        "approval_authority": "Food Court Operations",
+        "deadlines": "None",
+        "processing_time": "Instant",
+        "additional_instructions": "Dining inside individual student hostel messes requires purchasing a visitor coupon at the hostel entrance."
+      }
+    ],
+    "Hostel Details": [
+      {
+        "question": "What are hostel visiting hours and warden contact details?",
+        "answer": "Parents can meet their children in the designated hostel reception lobby during specified hours.",
+        "required_documents": ["Valid ID Proof (Aadhaar/Voter ID)", "Visitor Pass"],
+        "location": "Hostel Reception Lobby (Boys/Girls Respective Blocks)",
+        "timings": "Visiting Hours: 04:00 PM – 07:00 PM (Weekdays), 10:00 AM – 07:00 PM (Sundays)",
+        "procedure": "1. Present your ID card to the security warden at the gate.\n2. Obtain a visitor pass.\n3. Student will be summoned to the lobby.\n4. Return pass when exiting.",
+        "approval_authority": "Hostel Warden",
+        "deadlines": "None",
+        "processing_time": "Instant",
+        "additional_instructions": "For emergency contact, wardens' office numbers are displayed on the parent portal under 'Hostel Info'."
+      }
+    ],
+    "Student Marks Guidance": [
+      {
+        "question": "How can parents track their child's academic progress?",
+        "answer": "Parents are provided with a dedicated Parent Portal Login, sending monthly reports on attendance and marks directly to registered mobile/emails.",
+        "required_documents": ["Registered Parent Portal Credentials"],
+        "location": "Online Portal",
+        "timings": "24/7",
+        "procedure": "1. Open the parent portal login page.\n2. Enter registered mobile/email and verify with OTP.\n3. Click 'Attendance & Grades' to view detailed trackers.",
+        "approval_authority": "Academic Registrar",
+        "deadlines": "None",
+        "processing_time": "Instant",
+        "additional_instructions": "If you notice less than 75% attendance alert, please contact the class mentor immediately."
+      }
+    ],
+    "Parent Meeting Details": [
+      {
+        "question": "When are Parent-Teacher Meetings (PTMs) scheduled and how to attend?",
+        "answer": "Official Parent-Teacher Meetings are scheduled once per semester, typically after mid-term examination results. Parents can join physically or virtually.",
+        "required_documents": ["Meeting invitation slip / email printout"],
+        "location": "Respective Academic Department Seminar Halls",
+        "timings": "09:30 AM – 03:30 PM (Saturday)",
+        "procedure": "1. Receive meeting notification from your child's department.\n2. RVSP with your preferred mode (physical or Zoom online link).\n3. Meet department faculty to discuss academic and overall progress.",
+        "approval_authority": "Head of Department (HoD)",
+        "deadlines": "Register/RSVP within 3 days of invitation receipt",
+        "processing_time": "Instant",
+        "additional_instructions": "If you cannot attend, you can schedule a private virtual call with the student mentor by emailing them."
+      }
+    ]
+  }
+}

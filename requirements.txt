@@ -1,0 +1,13 @@
+streamlit>=1.35.0
+google-generativeai>=0.5.4
+faster-whisper==1.1.1
+ctranslate2==4.4.0
+langdetect>=1.0.9
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.1
+streamlit-chat>=0.1.1
+streamlit-mic-recorder>=0.0.8
+soundfile>=0.12.1
+
+
